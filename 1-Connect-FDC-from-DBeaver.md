@@ -39,4 +39,5 @@ Password: *******
 
 #### Use navigation bar to select schema (BLUADMIN) and table (metaocean)
 
-<img width="1307" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/e54a1372-629c-4ce4-b76c-bf5130dd5d45">
+<img width="1331" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/b6f04b55-14ae-428d-815e-c1fd6837efbc">
+
