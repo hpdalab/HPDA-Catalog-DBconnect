@@ -137,6 +137,32 @@ My Content: /fdc100
 <img width="1187" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/0c1c9dec-22a8-425c-adda-78ae700216f2">
 
 
+## Create Cognos Dashboard
+
+#### From Menu, + New then Dashboard
+
+<img width="1188" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/83c9b3b8-1abe-4de8-8383-e30a493c92f4">
+
+#### Select a Template
+
+<img width="1187" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/82b89fd7-d91d-4174-996e-9c8dc1a824ba">
+
+
+#### Select a Source with ICA100-fdc100-metaocean
+
+<img width="1189" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/a6d73e10-108a-4e1c-9c28-20463b307dee">
+
+
+
+#### Create a Tab for FileType using Bubble Type
+
+<img width="1356" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/dbc9ff91-722a-41ef-ac9d-10721236f54c">
+
+
+
+#### Save the Dashboard into the My Content Folder "ICA100-fdc100-metaocean"
+
+<img width="651" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/7da2044e-23ea-4d47-b556-190cd64d6207">
 
 
 
