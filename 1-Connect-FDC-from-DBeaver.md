@@ -33,8 +33,7 @@ Password: *******
 
 #### Test Connection ...
 
-<img width="741" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/0771bcdb-eeff-43a5-9b10-5076f85f7590">
-
+<img width="741" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/8fafd934-4e6d-44fd-a86e-5ccb9e78cc58">
 
 ## Access the Database
 
