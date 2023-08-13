@@ -123,10 +123,18 @@ Authentication Method: use signon (enter user name and password)
 <img width="1187" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/f30dc695-92e1-4474-8291-a6052ea25341">
 
 
+#### Click the "save" icon upper right to save Data Module as Local Content 
 
+<img width="1188" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/e98119b9-efd9-4588-af30-cc39855a6036">
 
+```
+Name: ICA100-fdc100-metaocean
+My Content: /fdc100
+```
 
+#### Preview Data Module (ICA100-fdc100-metaocean) in My Content
 
+<img width="1187" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/0c1c9dec-22a8-425c-adda-78ae700216f2">
 
 
 
