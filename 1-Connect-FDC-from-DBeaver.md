@@ -20,13 +20,14 @@
 #### Enter parameters to Fusion Data Catalog (FDC100)
 
 ```
-Host: 60eba3d4-us-south.lb.appdomain.cloud
+Host: *******-us-south.lb.appdomain.cloud
 Port: 50000
 Database: BLUDB
 Username: BLUADMIN
-Password:
+Password: *******
 ```
-<img width="739" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/e0f03644-a6f4-4e30-a15b-4223b984ed9f">
+<img width="1176" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/1e91a663-c1a0-4b70-bbc0-66f475ecee47">
+
 
 
 
