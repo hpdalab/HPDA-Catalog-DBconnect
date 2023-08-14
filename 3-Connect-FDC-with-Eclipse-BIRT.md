@@ -11,7 +11,7 @@
 7. Tutorial - https://www.youtube.com/watch?v=Dxjq99Sl5bM
 
 
-## Install Elcipse-BIRT on PC
+## Install Elcipse-BIRT on Windows PC
 
 #### Visit Elipse-Birt Github 
 
