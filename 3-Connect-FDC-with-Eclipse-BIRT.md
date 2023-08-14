@@ -1,4 +1,4 @@
-# Connect to Fusion Data Catalog with Eclipse BIRT
+# Connect Fusion Data Catalog (FDC) with Eclipse BIRT
 
 
 ## Reference:
