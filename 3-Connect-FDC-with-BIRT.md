@@ -114,13 +114,17 @@ JNDI URL: left blank
 
 <img width="648" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/68504c7a-6048-4d67-8b50-025e3f0d6b6f">
 
-#### Build Query
+#### Build Query in Dataset
 ```
 select *
 from BLUADMIN.METAOCEAN
-where TAG1 = "dat.breakhis.T100140.R3"
+where TAG1 = "dat.breakhis.T100140.R2"
 ```
-<img width="647" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/a4609ccf-3138-4085-9002-cb04f84db815">
+<img width="1291" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/45587ccc-4cde-4b62-90f6-baa2a7a74836">
+
+Preview Results
+
+<img width="1218" alt="image" src="https://github.com/hpdalab/FusionDataCatalog-Connect/assets/38366661/0f032420-e081-4452-8352-83ab9903a5c8">
 
 
 
