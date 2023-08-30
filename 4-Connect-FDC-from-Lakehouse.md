@@ -143,4 +143,20 @@ where datasource='fusion101' and tag1='dat.salento.T102229.R3'
 
 #### Run SQL query to export the retrieved dataset to table
 
+```
+create table bkt003c1.bkt003_fdc100.bkt003_fdc100_salentoR3
+WITH (
+  format = 'orc'
+)
+as 
+select * from fusion101fdc.bluadmin.metaocean 
+where datasource='fusion101' 
+and tag1='dat.salento.T102229.R3'
+```
+
 ![image](https://github.com/hpdalab/lab100.FDC100-DBconnect/assets/38366661/b49540f9-915f-4c45-8741-48a723f7ad32)
+
+#### View table "bkt003c1.bkt003_fdc100.bkt003_fdc100_salentoR3" in Data Manager
+
+![image](https://github.com/hpdalab/lab100.FDC-DBconnect/assets/38366661/703f21f3-b17a-42d1-b64e-601139ff4b51)
+
