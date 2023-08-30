@@ -31,7 +31,7 @@
 ![image](https://github.com/hpdalab/lab100.FDC100-DBconnect/assets/38366661/2220a776-d2e7-41f1-9fbb-852f6198a87f)
 
 
-#### Add FDC100 as Database and Catalog
+#### Add FDC101 as Database and Catalog
 
 ![image](https://github.com/hpdalab/lab100.FDC100-DBconnect/assets/38366661/d792d8af-871f-450f-80df-951ab5925afa)
 
@@ -46,7 +46,7 @@
 ![image](https://github.com/hpdalab/lab100.FDC100-DBconnect/assets/38366661/e1899eba-37ac-4f49-8bd2-e1fd88a394e0)
 
 
-## Work with Connected FDC100 Schema/Table in Data Manager
+## Work with Connected FDC101 Schema/Table in Data Manager
 
 #### Select presto-01 Engine and navigate to "fusion101fdc" Catalog
 
