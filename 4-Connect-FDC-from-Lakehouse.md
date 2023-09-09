@@ -1,5 +1,4 @@
-![image](https://github.com/hpdalab/lab100.FDC100-DBconnect/assets/38366661/a6cb8bc1-8b4f-47f2-a9cc-fa9d818761c7)![image](https://github.com/hpdalab/lab100.FDC100-DBconnect/assets/38366661/57a6510b-8569-4d22-99e8-fe27560010a6)# Connect Fusion Data Cataloging (FD100C) from watsonx.data (WXD100)
-
+This demo showcases how Fusion Data Cataloging (aka Spectrum Discover) can be connected into watsonx.data as a data source. 
 
 ## Reference:
 1. WXD100 (watsonx.data deployed in Fusion101 Cluster)
